@@ -41,11 +41,20 @@ https://munish0204.github.io/Analog-Clock/
 [![Blog Post 2](https://img.shields.io/badge/Blog-Post_2-green)](link-to-blog-post-2)
 
 ## 📫 Connect with Me
+
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="100" />
+  https://www.linkedin.com/in/munees-waran-9990ba2b4
+
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="100" />
+   https://www.instagram.com/__im_munish_02__/
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" width="100" />
   https://wa.me/+919585268836
-  
-                  
-- [Personal Website](link-to-your-website)
+
+
+
+   
 
 ## 🌟 Fun Fact
 Did you know? [A Fun Fact About You]
