@@ -16,9 +16,9 @@ I'm eager to collaborate on innovative projects and contribute to the tech commu
 
 
 ## 🛠️ Skills
-- **Languages:** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100" height="100">
-                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="100" 
-                 height="100" />
+- **Languages:**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="100" height="100" />
 - **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **Frameworks:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
 
