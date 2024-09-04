@@ -18,7 +18,7 @@ I'm eager to collaborate on innovative projects and contribute to the tech commu
 ## 🛠️ Skills
 - **Languages:** # My GitHub Profile
 
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png/width-200px*heigth-200px)
 
 - **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **Frameworks:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
