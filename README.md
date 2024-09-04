@@ -19,7 +19,9 @@ I'm eager to collaborate on innovative projects and contribute to the tech commu
 - **Languages:**
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="100">
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="100">
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/1024px-JavaScript-logo.png" alt="JavaScript Logo" width="100">
 
 
@@ -37,8 +39,13 @@ I'm eager to collaborate on innovative projects and contribute to the tech commu
 [![Blog Post 2](https://img.shields.io/badge/Blog-Post_2-green)](link-to-blog-post-2)
 
 ## 📫 Connect with Me
-- [LinkedIn](link-to-your-linkedin-profile)
-- [Twitter](link-to-your-twitter-profile)
+
+
+  <div data-aos="flip-left" data-aos-duration="500" data-aos-delay="1200">
+                    <div class="icons" onclick="gotopage('https://wa.me/+919585268836')">
+                      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" width="100" />
+                    </div>
+                </div>
 - [Personal Website](link-to-your-website)
 
 ## 🌟 Fun Fact
