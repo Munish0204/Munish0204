@@ -12,9 +12,9 @@ I'm eager to collaborate on innovative projects and contribute to the tech commu
 
 ## 🔝 Top Repositories
 
-![E-Cosmestics](https://munish0204.github.io/Cosmetics-Project/)
+https://munish0204.github.io/Cosmetics-Project/
 
-[![Repo 2]( https://munish0204.github.io/Analog-Clock/)]![Analog-Clock]
+https://munish0204.github.io/Analog-Clock/
 
 
 ## 🛠️ Skills
@@ -42,7 +42,7 @@ I'm eager to collaborate on innovative projects and contribute to the tech commu
 
 ## 📫 Connect with Me
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" width="100" />
-  'https://wa.me/+919585268836'
+  https://wa.me/+919585268836
   
                   
 - [Personal Website](link-to-your-website)
