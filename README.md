@@ -16,7 +16,7 @@ I'm eager to collaborate on innovative projects and contribute to the tech commu
 
 
 ## 🛠️ Skills
-- **Languages:** ![HTML](<img src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="Description of the image" width="100" height="100"/>) ![CSS](https://img.shields.io/badge/Css-F05032?style=flat&logo=git&logoColor=white)![JavaScript](https://img.shields.io/badge/Javascript-F05032?style=flat&logo=git&logoColor=white)
+- **Languages:** ![HTML]((https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)) ![CSS](https://img.shields.io/badge/Css-F05032?style=flat&logo=git&logoColor=white)![JavaScript](https://img.shields.io/badge/Javascript-F05032?style=flat&logo=git&logoColor=white)
 - **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - **Frameworks:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
 
