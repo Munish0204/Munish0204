@@ -36,15 +36,10 @@ https://munish0204.github.io/Analog-Clock/
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" >
 
 
-## 📰 Latest Blog Posts
-[![Blog Post 1](https://img.shields.io/badge/Blog-Post_1-blue)](link-to-blog-post-1)
-[![Blog Post 2](https://img.shields.io/badge/Blog-Post_2-green)](link-to-blog-post-2)
 
 ## 📫 Connect with Me
 
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="100" /> 
-
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="100" />
   https://www.linkedin.com/in/munees-waran-9990ba2b4
 
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="100" />
