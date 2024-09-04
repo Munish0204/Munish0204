@@ -39,13 +39,10 @@ I'm eager to collaborate on innovative projects and contribute to the tech commu
 [![Blog Post 2](https://img.shields.io/badge/Blog-Post_2-green)](link-to-blog-post-2)
 
 ## 📫 Connect with Me
-
-
-  <div data-aos="flip-left" data-aos-duration="500" data-aos-delay="1200">
-                    <div class="icons" onclick="gotopage('https://wa.me/+919585268836')">
-                      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" width="100" />
-                    </div>
-                </div>
+   <div class="scr" onclick="gotopage('https://wa.me/+919585268836')">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Logo" width="100" />
+    <div>
+                  
 - [Personal Website](link-to-your-website)
 
 ## 🌟 Fun Fact
