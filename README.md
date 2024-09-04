@@ -11,8 +11,8 @@ I'm eager to collaborate on innovative projects and contribute to the tech commu
 - 🎨 Hobbies: Reading , Playing.
 
 ## 🔝 Top Repositories
-[![Repo 1](https://munish0204.github.io/Cosmetics-Project/)](link-to-repo1)
-[![Repo 2]( https://munish0204.github.io/Analog-Clock/)](link-to-repo2)
+[![Repo 1](https://munish0204.github.io/Cosmetics-Project/)]![E-Cosmestics]]
+[![Repo 2]( https://munish0204.github.io/Analog-Clock/)]![Analog-Clock]
 
 
 ## 🛠️ Skills
