@@ -43,7 +43,8 @@ https://munish0204.github.io/Analog-Clock/
 ## 📫 Connect with Me
 
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="100" /> 
+
   https://www.linkedin.com/in/munees-waran-9990ba2b4
 
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo" width="100" />
