@@ -17,23 +17,38 @@ https://munish0204.github.io/Cosmetics-Project/
 https://munish0204.github.io/Analog-Clock/
 
 
-## 🛠️ Skills
-- **Languages:**
+## 🛠️ Tech stack🌐🖥️
+
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML Logo" width="50" height="50">
+</a>
+
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="100">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS Logo" width="50" height="50">
+</a>
+
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="100">
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/1024px-JavaScript-logo.png" alt="JavaScript Logo" width="100">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript Logo" width="50" height="50">
+</a>
 
 
-- **Tools:**
+ <a href="https://github.com/your-username" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Logo" width="50" height="50">
+</a>
 
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" >
 
-- **Frameworks:**
+  <a href="https://reactjs.org/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React Logo" width="50" height="50">
+</a>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" >
+
+ <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Logo" width="50" height="50">
+
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Canva Logo" width="50" height="50">
+
+   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Python Logo" width="50" height="50">
 
 
 
@@ -51,13 +66,6 @@ https://munish0204.github.io/Analog-Clock/
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp Logo" width="50" height="50">
 </a>
 
-
-
-
-   
-
-## 🌟 Fun Fact
-Did you know? [A Fun Fact About You]
 
 ---
 
