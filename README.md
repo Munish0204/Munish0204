@@ -43,8 +43,14 @@ https://munish0204.github.io/Analog-Clock/
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="50" height="50">
 </a>
 
-   - [Twitter](link-to-your-twitter-profile)
-   - [Personal Website](link-to-your-website)
+   <a href="https://www.instagram.com/__im_munish_02__/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram Logo" width="50" height="50">
+</a
+
+   <a href="https://wa.me/+919585268836" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp Logo" width="50" height="50">
+</a>
+
 
 
 
