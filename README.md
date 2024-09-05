@@ -34,11 +34,6 @@ https://munish0204.github.io/Analog-Clock/
 </a>
 
 
- <a href="https://github.com/your-username" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Logo" width="50" height="50">
-</a>
-
-
   <a href="https://reactjs.org/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React Logo" width="50" height="50">
 </a>
