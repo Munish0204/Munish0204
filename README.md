@@ -38,9 +38,7 @@ https://munish0204.github.io/Analog-Clock/
   <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React Logo" width="50" height="50">
 </a>
 
- <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Logo" width="50" height="50">
-  
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Python Logo" width="50" height="50">
+ <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub Logo" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Python Logo" width="50" height="50">
 
 
 
